@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+database.db
+generated_pdfs/
+
+.vscode/
+
+.env
+
+*.log
